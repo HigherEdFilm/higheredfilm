@@ -184,14 +184,14 @@ h4 {
 .tm-footer-links-container { padding-left: 10px; }
 
 .tm-footer-link {
-	color: #CCCC66;
+	color: #CCCCCC;
 	line-height: 2.8;
 	text-decoration: underline;
 }
 
 .tm-footer-link:hover,
 .tm-footer-link:focus {
-	color: #CCCC66;
+	color: #CCCCCC;
 	text-decoration: none;
 }
 .tm-footer-thumbnail { margin-bottom: 5px; }
@@ -222,7 +222,7 @@ p { line-height: 1.9; }
 	padding: 0.75rem 1rem;
 }
 
-.form-control:focus { border-color: #CC9900; }
+.form-control:focus { border-color: #006699; }
 
 .tm-form-description { margin-top: 30px; }
 .tm-contact-form { padding-top: 20px; }
@@ -331,8 +331,8 @@ p { line-height: 1.9; }
 	#tmNavbar .navbar-nav .nav-item+.nav-item { margin-left: 0; }
 	.navbar-toggler {
 		background: white;
-		border-color: #cc9900;
-		color: #cc9900;
+		border-color: #515050;
+		color: #515050;
 		display: block;
 		margin-left: auto;
 		margin-right: 0;
